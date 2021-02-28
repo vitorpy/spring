@@ -1,3 +1,8 @@
+src/dwgdirect/LibWinD/DD_VC9AMD64MD_Db.lib filter=lfs diff=lfs merge=lfs -text
+src/geos/Release/geos.lib filter=lfs diff=lfs merge=lfs -text
+src/geos/x64/Release/geos.lib filter=lfs diff=lfs merge=lfs -text
+distribuicaox64/oraociei11.dll filter=lfs diff=lfs merge=lfs -text
+distribuicao/oraociei11.dll filter=lfs diff=lfs merge=lfs -text
 *.ini filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
 *.tmpl filter=lfs diff=lfs merge=lfs -text
